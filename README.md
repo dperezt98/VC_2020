@@ -8,3 +8,4 @@ Ejercicios prácticos realizados en la asignatura de Visión por Computador en 2
 * Práctica 6 - Segmentación de imágenes: aplicación de la Transformada de Hough
 * Práctica 7 - Descripción de similitud mediante correlación bidimensional normalizada
 * Práctica Final - Sistema de segmentación y reconocimiento de caracteres de placas de matrículas
+![title](./Imagenes/Practica_final.png)
